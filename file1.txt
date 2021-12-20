@@ -1,4 +1,0 @@
-this is line 1
-this is new line 
-=======
-new line added
